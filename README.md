@@ -87,3 +87,10 @@ While making this project, I learned about:
 ## Author
 
 Amrit
+## Program Output
+
+### Output 1
+![Program Output 1](<WhatsApp Image 2026-10-02 at 1.06.18 AM.jpeg>)
+
+### Output 2
+![Program Output 2](<WhatsApp Image 2026-10-02 at 1.06.50 AM.jpeg>)
